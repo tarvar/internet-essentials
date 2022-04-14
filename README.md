@@ -1,5 +1,8 @@
-![Internet essentials](https://user-images.githubusercontent.com/81069619/163312060-1d3cabe5-4aa6-468a-a7a1-9c2de160d186.png)
+<p align="center">
+  <img src="/assets/banner.png" />
+</p>
 
+---
 
 A list of some cool extensions/apps that will increase your productivity.
 

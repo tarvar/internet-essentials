@@ -17,15 +17,7 @@ This repository is always open for contribution! Go ahead and make a pull reques
 
 * Basics 
   * Web browsers
-    * Windows
-    * Android
-    * Linux
-    * iOS / macOS
   * Ad / Content blocking
-    * Windows 
-    * Android
-    * Linux
-    * iOS / macOS
 * Quality of life
   * Browser Extensions
   * Antivirus / Malware scan
